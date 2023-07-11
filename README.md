@@ -8,5 +8,5 @@
   <br />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=a0zhar&show_icons=true&theme=dark#gh-dark-mode-only" alt="..." />
+  <img src="https://github-readme-stats.vercel.app/api?username=a0zhar&show_icons=true&theme=cobalt#gh-dark-mode-only" alt="..." />
 </p>
