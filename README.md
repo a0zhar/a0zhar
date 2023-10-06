@@ -5,8 +5,7 @@
 
 <p align="center">
   <b>Hello there! How's it going?</b> 👋<br />
-  If you encounter any issues or have questions about my repositories, don't hesitate to get in touch.<br />
-  I'm here to help! Whether it's a problem to be solved or a repository to be removed, just reach out. Have a fantastic day! 😄
+   Have a fantastic day! 😄
 </p>
 
 <br />
