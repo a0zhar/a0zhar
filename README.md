@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/04/04/20/52/shahada-6151466_1280.png" height="300"><br>
   <img src="proflogo.png" alt="Profile Logo" height="150" style="display: inline-block; vertical-align: middle;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=a0zhar&show_icons=true&theme=cobalt#gh-dark-mode-only" height="150" alt="GitHub Stats" style="display: inline-block; vertical-align: middle;"/>
 </p>
